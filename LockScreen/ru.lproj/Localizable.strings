@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  LockScreen
+
+  Created by Владислава on 2.11.23.
+  
+*/
+"vc.titleLock" = "Введите код-пароль";
+"vc.subtitleLock" = "Для активации Face ID введите код-пароль";
+
+"vc.cancelButton" = "Отменить";
+"vc.languageButton" = "Сменить язык";
+
+"vc.alert.language" = "Язык";
+"vc.alert.message" = "Выбор языка";
+"vc.alert.variant.ru" = "Русский";
+"vc.alert.variant.en" = "Английский";
